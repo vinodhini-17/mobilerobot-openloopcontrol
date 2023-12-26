@@ -35,7 +35,7 @@ Upload the Control Inputs to the Robot
 
 Step5:
 
-Execute the Open-Loop Contro
+Execute the Open-Loop Control
 
 <br/>
 
